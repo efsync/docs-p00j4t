@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-u80pit.yoursingles.online/sitemap.xml
